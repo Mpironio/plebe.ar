@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "http://plebe.ar/*"
+  to = "https://plebe.ar/:splat"
+  status = 301
+  force = true
