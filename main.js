@@ -6,7 +6,7 @@ ctx.translate(90, 80);
 
 const scores = {
     piru:           [379, 278],
-    franco:         [355, 255],
+    franco:         [428, 318],
     fd1:            [274, 368],
     lombi:          [284, 176],
     nacho:          [324, 330],
@@ -35,7 +35,8 @@ const scores = {
     rami:           [236, 296],
     pablo:          [313, 289],
     tinto:          [301, 279],
-    joaco:          [291, 287]
+    joaco:          [291, 287],
+    acheto:         [50, 250]
 };
 
 //colores
