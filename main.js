@@ -35,7 +35,8 @@ const scores = {
     rami:           [236, 296],
     pablo:          [313, 289],
     tinto:          [301, 279],
-    joaco:          [291, 287]
+    joaco:          [291, 287],
+    acheto:         [50, 250]
 };
 
 //colores
